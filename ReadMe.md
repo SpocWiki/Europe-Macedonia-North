@@ -17,8 +17,8 @@ id: Macedonia, FYR
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Macedonia~North//
-markerFolder: ./Macedonia~North//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Macedonia, FYR] 

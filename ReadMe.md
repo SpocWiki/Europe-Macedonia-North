@@ -33,8 +33,10 @@ Capital :: [[./Macedonia~North/Counties/Skopje]]
 ![[Flag_of_Macedonia.svg|350]] 
 [Alcohol-l::8.5] 
 [Language-Id::] 
-[geo-lon::21.43] 
-[geo-lat::41.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.43] 
+[has_place_latitude::41.98] 
 
 
 

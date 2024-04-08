@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.2] 
-[geo-lat::41.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.2] 
+[has_place_latitude::41.52] 
 [name::Brod] 
 State ::  
 Country :: [[../../../../Yugoslavia]]  

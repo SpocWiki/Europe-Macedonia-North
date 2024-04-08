@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.62] 
-[geo-lat::41.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.62] 
+[has_place_latitude::41.45] 
 [name::Strumica] 
 State ::  
 Country :: [[../../../../Yugoslavia]]  

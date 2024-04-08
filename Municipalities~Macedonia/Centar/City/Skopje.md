@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.43] 
-[geo-lat::41.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.43] 
+[has_place_latitude::41.98] 
 [name::Skopje] 
 State ::  
 Country :: Macedonia,_FYR] 

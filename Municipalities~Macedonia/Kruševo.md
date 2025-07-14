@@ -41,15 +41,17 @@ markerFolder: ./Kruševo/
 
 ## Confidential Links & Embeds: 
 
-### [Kruševo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKruševo.public.md) 
+### [Kruševo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kruševo.md) 
 
-### [Kruševo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKruševo.internal.md) 
+### [Kruševo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kruševo.public.md) 
 
-### [Kruševo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKruševo.protect.md) 
+### [Kruševo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kruševo.internal.md) 
 
-### [Kruševo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKruševo.private.md) 
+### [Kruševo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kruševo.protect.md) 
 
-### [Kruševo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKruševo.personal.md) 
+### [Kruševo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kruševo.private.md) 
 
-### [Kruševo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKruševo.secret.md)
+### [Kruševo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kruševo.personal.md) 
+
+### [Kruševo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kruševo.secret.md)
 

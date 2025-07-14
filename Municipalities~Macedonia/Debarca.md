@@ -41,15 +41,17 @@ markerFolder: ./Debarca/
 
 ## Confidential Links & Embeds: 
 
-### [Debarca.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDebarca.public.md) 
+### [Debarca](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Debarca.md) 
 
-### [Debarca.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDebarca.internal.md) 
+### [Debarca.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Debarca.public.md) 
 
-### [Debarca.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDebarca.protect.md) 
+### [Debarca.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Debarca.internal.md) 
 
-### [Debarca.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDebarca.private.md) 
+### [Debarca.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Debarca.protect.md) 
 
-### [Debarca.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDebarca.personal.md) 
+### [Debarca.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Debarca.private.md) 
 
-### [Debarca.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDebarca.secret.md)
+### [Debarca.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Debarca.personal.md) 
+
+### [Debarca.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Debarca.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Cair/
 
 ## Confidential Links & Embeds: 
 
-### [Cair.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCair.public.md) 
+### [Cair](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cair.md) 
 
-### [Cair.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCair.internal.md) 
+### [Cair.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cair.public.md) 
 
-### [Cair.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCair.protect.md) 
+### [Cair.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cair.internal.md) 
 
-### [Cair.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCair.private.md) 
+### [Cair.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cair.protect.md) 
 
-### [Cair.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCair.personal.md) 
+### [Cair.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cair.private.md) 
 
-### [Cair.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCair.secret.md)
+### [Cair.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cair.personal.md) 
+
+### [Cair.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cair.secret.md)
 

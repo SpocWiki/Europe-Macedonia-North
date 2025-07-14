@@ -41,15 +41,17 @@ markerFolder: ./Cucer_Sandevo/
 
 ## Confidential Links & Embeds: 
 
-### [Cucer_Sandevo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCucer_Sandevo.public.md) 
+### [Cucer_Sandevo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.md) 
 
-### [Cucer_Sandevo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCucer_Sandevo.internal.md) 
+### [Cucer_Sandevo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.public.md) 
 
-### [Cucer_Sandevo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCucer_Sandevo.protect.md) 
+### [Cucer_Sandevo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.internal.md) 
 
-### [Cucer_Sandevo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCucer_Sandevo.private.md) 
+### [Cucer_Sandevo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.protect.md) 
 
-### [Cucer_Sandevo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCucer_Sandevo.personal.md) 
+### [Cucer_Sandevo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.private.md) 
 
-### [Cucer_Sandevo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCucer_Sandevo.secret.md)
+### [Cucer_Sandevo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.personal.md) 
+
+### [Cucer_Sandevo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.secret.md)
 

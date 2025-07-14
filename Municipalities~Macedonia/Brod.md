@@ -41,15 +41,17 @@ markerFolder: ./Brod/
 
 ## Confidential Links & Embeds: 
 
-### [Brod.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBrod.public.md) 
+### [Brod](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod.md) 
 
-### [Brod.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBrod.internal.md) 
+### [Brod.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod.public.md) 
 
-### [Brod.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBrod.protect.md) 
+### [Brod.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod.internal.md) 
 
-### [Brod.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBrod.private.md) 
+### [Brod.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod.protect.md) 
 
-### [Brod.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBrod.personal.md) 
+### [Brod.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod.private.md) 
 
-### [Brod.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBrod.secret.md)
+### [Brod.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod.personal.md) 
+
+### [Brod.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod.secret.md)
 

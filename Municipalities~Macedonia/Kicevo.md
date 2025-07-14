@@ -41,15 +41,17 @@ markerFolder: ./Kicevo/
 
 ## Confidential Links & Embeds: 
 
-### [Kicevo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKicevo.public.md) 
+### [Kicevo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kicevo.md) 
 
-### [Kicevo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKicevo.internal.md) 
+### [Kicevo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kicevo.public.md) 
 
-### [Kicevo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKicevo.protect.md) 
+### [Kicevo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kicevo.internal.md) 
 
-### [Kicevo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKicevo.private.md) 
+### [Kicevo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kicevo.protect.md) 
 
-### [Kicevo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKicevo.personal.md) 
+### [Kicevo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kicevo.private.md) 
 
-### [Kicevo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKicevo.secret.md)
+### [Kicevo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kicevo.personal.md) 
+
+### [Kicevo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kicevo.secret.md)
 

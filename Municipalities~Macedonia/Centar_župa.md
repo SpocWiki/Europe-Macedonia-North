@@ -41,15 +41,17 @@ markerFolder: ./Centar_župa/
 
 ## Confidential Links & Embeds: 
 
-### [Centar_župa.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCentar_župa.public.md) 
+### [Centar_župa](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa.md) 
 
-### [Centar_župa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCentar_župa.internal.md) 
+### [Centar_župa.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa.public.md) 
 
-### [Centar_župa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCentar_župa.protect.md) 
+### [Centar_župa.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa.internal.md) 
 
-### [Centar_župa.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCentar_župa.private.md) 
+### [Centar_župa.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa.protect.md) 
 
-### [Centar_župa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCentar_župa.personal.md) 
+### [Centar_župa.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa.private.md) 
 
-### [Centar_župa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCentar_župa.secret.md)
+### [Centar_župa.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa.personal.md) 
+
+### [Centar_župa.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa.secret.md)
 

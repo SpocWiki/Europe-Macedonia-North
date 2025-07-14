@@ -41,15 +41,17 @@ markerFolder: ./Bogdanci/
 
 ## Confidential Links & Embeds: 
 
-### [Bogdanci.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBogdanci.public.md) 
+### [Bogdanci](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogdanci.md) 
 
-### [Bogdanci.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBogdanci.internal.md) 
+### [Bogdanci.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogdanci.public.md) 
 
-### [Bogdanci.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBogdanci.protect.md) 
+### [Bogdanci.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogdanci.internal.md) 
 
-### [Bogdanci.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBogdanci.private.md) 
+### [Bogdanci.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogdanci.protect.md) 
 
-### [Bogdanci.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBogdanci.personal.md) 
+### [Bogdanci.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogdanci.private.md) 
 
-### [Bogdanci.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBogdanci.secret.md)
+### [Bogdanci.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogdanci.personal.md) 
+
+### [Bogdanci.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogdanci.secret.md)
 

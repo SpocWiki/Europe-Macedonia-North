@@ -41,15 +41,17 @@ markerFolder: ./Kratovo/
 
 ## Confidential Links & Embeds: 
 
-### [Kratovo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKratovo.public.md) 
+### [Kratovo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kratovo.md) 
 
-### [Kratovo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKratovo.internal.md) 
+### [Kratovo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kratovo.public.md) 
 
-### [Kratovo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKratovo.protect.md) 
+### [Kratovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kratovo.internal.md) 
 
-### [Kratovo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKratovo.private.md) 
+### [Kratovo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kratovo.protect.md) 
 
-### [Kratovo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKratovo.personal.md) 
+### [Kratovo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kratovo.private.md) 
 
-### [Kratovo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKratovo.secret.md)
+### [Kratovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kratovo.personal.md) 
+
+### [Kratovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kratovo.secret.md)
 

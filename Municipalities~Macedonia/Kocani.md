@@ -41,15 +41,17 @@ markerFolder: ./Kocani/
 
 ## Confidential Links & Embeds: 
 
-### [Kocani.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKocani.public.md) 
+### [Kocani](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kocani.md) 
 
-### [Kocani.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKocani.internal.md) 
+### [Kocani.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kocani.public.md) 
 
-### [Kocani.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKocani.protect.md) 
+### [Kocani.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kocani.internal.md) 
 
-### [Kocani.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKocani.private.md) 
+### [Kocani.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kocani.protect.md) 
 
-### [Kocani.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKocani.personal.md) 
+### [Kocani.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kocani.private.md) 
 
-### [Kocani.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKocani.secret.md)
+### [Kocani.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kocani.personal.md) 
+
+### [Kocani.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kocani.secret.md)
 

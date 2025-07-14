@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kumanovo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Lipkovo\CityKumanovo.public.md) 
+### [Kumanovo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo/City/Kumanovo.md) 
 
-### [Kumanovo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Lipkovo\CityKumanovo.internal.md) 
+### [Kumanovo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo/City/Kumanovo.public.md) 
 
-### [Kumanovo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Lipkovo\CityKumanovo.protect.md) 
+### [Kumanovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo/City/Kumanovo.internal.md) 
 
-### [Kumanovo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Lipkovo\CityKumanovo.private.md) 
+### [Kumanovo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo/City/Kumanovo.protect.md) 
 
-### [Kumanovo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Lipkovo\CityKumanovo.personal.md) 
+### [Kumanovo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo/City/Kumanovo.private.md) 
 
-### [Kumanovo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Lipkovo\CityKumanovo.secret.md)
+### [Kumanovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo/City/Kumanovo.personal.md) 
+
+### [Kumanovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo/City/Kumanovo.secret.md)
 

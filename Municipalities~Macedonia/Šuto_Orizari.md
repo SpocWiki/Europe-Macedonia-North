@@ -41,15 +41,17 @@ markerFolder: ./Šuto_Orizari/
 
 ## Confidential Links & Embeds: 
 
-### [Šuto_Orizari.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŠuto_Orizari.public.md) 
+### [Šuto_Orizari](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.md) 
 
-### [Šuto_Orizari.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŠuto_Orizari.internal.md) 
+### [Šuto_Orizari.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.public.md) 
 
-### [Šuto_Orizari.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŠuto_Orizari.protect.md) 
+### [Šuto_Orizari.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.internal.md) 
 
-### [Šuto_Orizari.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŠuto_Orizari.private.md) 
+### [Šuto_Orizari.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.protect.md) 
 
-### [Šuto_Orizari.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŠuto_Orizari.personal.md) 
+### [Šuto_Orizari.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.private.md) 
 
-### [Šuto_Orizari.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŠuto_Orizari.secret.md)
+### [Šuto_Orizari.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.personal.md) 
+
+### [Šuto_Orizari.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.secret.md)
 

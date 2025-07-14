@@ -41,15 +41,17 @@ markerFolder: ./Studenicani/
 
 ## Confidential Links & Embeds: 
 
-### [Studenicani.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaStudenicani.public.md) 
+### [Studenicani](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Studenicani.md) 
 
-### [Studenicani.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaStudenicani.internal.md) 
+### [Studenicani.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Studenicani.public.md) 
 
-### [Studenicani.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaStudenicani.protect.md) 
+### [Studenicani.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Studenicani.internal.md) 
 
-### [Studenicani.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaStudenicani.private.md) 
+### [Studenicani.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Studenicani.protect.md) 
 
-### [Studenicani.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaStudenicani.personal.md) 
+### [Studenicani.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Studenicani.private.md) 
 
-### [Studenicani.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaStudenicani.secret.md)
+### [Studenicani.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Studenicani.personal.md) 
+
+### [Studenicani.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Studenicani.secret.md)
 

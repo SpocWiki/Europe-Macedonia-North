@@ -41,15 +41,17 @@ markerFolder: ./Pelagonia/
 
 ## Confidential Links & Embeds: 
 
-### [Pelagonia.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPelagonia.public.md) 
+### [Pelagonia](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Pelagonia.md) 
 
-### [Pelagonia.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPelagonia.internal.md) 
+### [Pelagonia.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Pelagonia.public.md) 
 
-### [Pelagonia.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPelagonia.protect.md) 
+### [Pelagonia.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Pelagonia.internal.md) 
 
-### [Pelagonia.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPelagonia.private.md) 
+### [Pelagonia.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Pelagonia.protect.md) 
 
-### [Pelagonia.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPelagonia.personal.md) 
+### [Pelagonia.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Pelagonia.private.md) 
 
-### [Pelagonia.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPelagonia.secret.md)
+### [Pelagonia.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Pelagonia.personal.md) 
+
+### [Pelagonia.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Pelagonia.secret.md)
 

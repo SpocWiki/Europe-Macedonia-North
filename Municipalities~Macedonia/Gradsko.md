@@ -41,15 +41,17 @@ markerFolder: ./Gradsko/
 
 ## Confidential Links & Embeds: 
 
-### [Gradsko.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGradsko.public.md) 
+### [Gradsko](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gradsko.md) 
 
-### [Gradsko.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGradsko.internal.md) 
+### [Gradsko.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gradsko.public.md) 
 
-### [Gradsko.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGradsko.protect.md) 
+### [Gradsko.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gradsko.internal.md) 
 
-### [Gradsko.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGradsko.private.md) 
+### [Gradsko.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gradsko.protect.md) 
 
-### [Gradsko.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGradsko.personal.md) 
+### [Gradsko.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gradsko.private.md) 
 
-### [Gradsko.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGradsko.secret.md)
+### [Gradsko.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gradsko.personal.md) 
+
+### [Gradsko.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gradsko.secret.md)
 

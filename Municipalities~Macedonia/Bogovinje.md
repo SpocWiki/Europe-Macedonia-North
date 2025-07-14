@@ -41,15 +41,17 @@ markerFolder: ./Bogovinje/
 
 ## Confidential Links & Embeds: 
 
-### [Bogovinje.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBogovinje.public.md) 
+### [Bogovinje](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogovinje.md) 
 
-### [Bogovinje.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBogovinje.internal.md) 
+### [Bogovinje.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogovinje.public.md) 
 
-### [Bogovinje.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBogovinje.protect.md) 
+### [Bogovinje.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogovinje.internal.md) 
 
-### [Bogovinje.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBogovinje.private.md) 
+### [Bogovinje.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogovinje.protect.md) 
 
-### [Bogovinje.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBogovinje.personal.md) 
+### [Bogovinje.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogovinje.private.md) 
 
-### [Bogovinje.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBogovinje.secret.md)
+### [Bogovinje.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogovinje.personal.md) 
+
+### [Bogovinje.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bogovinje.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Štip/
 
 ## Confidential Links & Embeds: 
 
-### [Štip.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŠtip.public.md) 
+### [Štip](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Štip.md) 
 
-### [Štip.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŠtip.internal.md) 
+### [Štip.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Štip.public.md) 
 
-### [Štip.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŠtip.protect.md) 
+### [Štip.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Štip.internal.md) 
 
-### [Štip.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŠtip.private.md) 
+### [Štip.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Štip.protect.md) 
 
-### [Štip.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŠtip.personal.md) 
+### [Štip.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Štip.private.md) 
 
-### [Štip.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŠtip.secret.md)
+### [Štip.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Štip.personal.md) 
+
+### [Štip.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Štip.secret.md)
 

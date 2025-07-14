@@ -41,15 +41,17 @@ markerFolder: ./Tetovo/
 
 ## Confidential Links & Embeds: 
 
-### [Tetovo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaTetovo.public.md) 
+### [Tetovo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tetovo.md) 
 
-### [Tetovo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaTetovo.internal.md) 
+### [Tetovo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tetovo.public.md) 
 
-### [Tetovo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaTetovo.protect.md) 
+### [Tetovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tetovo.internal.md) 
 
-### [Tetovo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaTetovo.private.md) 
+### [Tetovo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tetovo.protect.md) 
 
-### [Tetovo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaTetovo.personal.md) 
+### [Tetovo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tetovo.private.md) 
 
-### [Tetovo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaTetovo.secret.md)
+### [Tetovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tetovo.personal.md) 
+
+### [Tetovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tetovo.secret.md)
 

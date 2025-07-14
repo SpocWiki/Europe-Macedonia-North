@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brod.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Brod\CityBrod.public.md) 
+### [Brod](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod/City/Brod.md) 
 
-### [Brod.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Brod\CityBrod.internal.md) 
+### [Brod.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod/City/Brod.public.md) 
 
-### [Brod.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Brod\CityBrod.protect.md) 
+### [Brod.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod/City/Brod.internal.md) 
 
-### [Brod.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Brod\CityBrod.private.md) 
+### [Brod.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod/City/Brod.protect.md) 
 
-### [Brod.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Brod\CityBrod.personal.md) 
+### [Brod.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod/City/Brod.private.md) 
 
-### [Brod.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Brod\CityBrod.secret.md)
+### [Brod.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod/City/Brod.personal.md) 
+
+### [Brod.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brod/City/Brod.secret.md)
 

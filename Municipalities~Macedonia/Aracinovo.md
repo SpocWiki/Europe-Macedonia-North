@@ -41,15 +41,17 @@ markerFolder: ./Aracinovo/
 
 ## Confidential Links & Embeds: 
 
-### [Aracinovo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaAracinovo.public.md) 
+### [Aracinovo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aracinovo.md) 
 
-### [Aracinovo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaAracinovo.internal.md) 
+### [Aracinovo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aracinovo.public.md) 
 
-### [Aracinovo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaAracinovo.protect.md) 
+### [Aracinovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aracinovo.internal.md) 
 
-### [Aracinovo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaAracinovo.private.md) 
+### [Aracinovo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aracinovo.protect.md) 
 
-### [Aracinovo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaAracinovo.personal.md) 
+### [Aracinovo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aracinovo.private.md) 
 
-### [Aracinovo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaAracinovo.secret.md)
+### [Aracinovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aracinovo.personal.md) 
+
+### [Aracinovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aracinovo.secret.md)
 

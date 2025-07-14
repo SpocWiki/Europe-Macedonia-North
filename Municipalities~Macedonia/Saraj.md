@@ -41,15 +41,17 @@ markerFolder: ./Saraj/
 
 ## Confidential Links & Embeds: 
 
-### [Saraj.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSaraj.public.md) 
+### [Saraj](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Saraj.md) 
 
-### [Saraj.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSaraj.internal.md) 
+### [Saraj.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Saraj.public.md) 
 
-### [Saraj.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSaraj.protect.md) 
+### [Saraj.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Saraj.internal.md) 
 
-### [Saraj.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSaraj.private.md) 
+### [Saraj.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Saraj.protect.md) 
 
-### [Saraj.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSaraj.personal.md) 
+### [Saraj.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Saraj.private.md) 
 
-### [Saraj.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSaraj.secret.md)
+### [Saraj.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Saraj.personal.md) 
+
+### [Saraj.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Saraj.secret.md)
 

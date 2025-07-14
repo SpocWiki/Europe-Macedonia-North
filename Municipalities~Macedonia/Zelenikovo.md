@@ -41,15 +41,17 @@ markerFolder: ./Zelenikovo/
 
 ## Confidential Links & Embeds: 
 
-### [Zelenikovo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZelenikovo.public.md) 
+### [Zelenikovo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zelenikovo.md) 
 
-### [Zelenikovo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZelenikovo.internal.md) 
+### [Zelenikovo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zelenikovo.public.md) 
 
-### [Zelenikovo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZelenikovo.protect.md) 
+### [Zelenikovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zelenikovo.internal.md) 
 
-### [Zelenikovo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZelenikovo.private.md) 
+### [Zelenikovo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zelenikovo.protect.md) 
 
-### [Zelenikovo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZelenikovo.personal.md) 
+### [Zelenikovo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zelenikovo.private.md) 
 
-### [Zelenikovo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZelenikovo.secret.md)
+### [Zelenikovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zelenikovo.personal.md) 
+
+### [Zelenikovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zelenikovo.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Vinitsa/
 
 ## Confidential Links & Embeds: 
 
-### [Vinitsa.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVinitsa.public.md) 
+### [Vinitsa](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vinitsa.md) 
 
-### [Vinitsa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVinitsa.internal.md) 
+### [Vinitsa.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vinitsa.public.md) 
 
-### [Vinitsa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVinitsa.protect.md) 
+### [Vinitsa.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vinitsa.internal.md) 
 
-### [Vinitsa.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVinitsa.private.md) 
+### [Vinitsa.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vinitsa.protect.md) 
 
-### [Vinitsa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVinitsa.personal.md) 
+### [Vinitsa.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vinitsa.private.md) 
 
-### [Vinitsa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVinitsa.secret.md)
+### [Vinitsa.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vinitsa.personal.md) 
+
+### [Vinitsa.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vinitsa.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Cešinovo-Obleševo/
 
 ## Confidential Links & Embeds: 
 
-### [Cešinovo-Obleševo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCešinovo-Obleševo.public.md) 
+### [Cešinovo-Obleševo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cešinovo-Obleševo.md) 
 
-### [Cešinovo-Obleševo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCešinovo-Obleševo.internal.md) 
+### [Cešinovo-Obleševo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cešinovo-Obleševo.public.md) 
 
-### [Cešinovo-Obleševo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCešinovo-Obleševo.protect.md) 
+### [Cešinovo-Obleševo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cešinovo-Obleševo.internal.md) 
 
-### [Cešinovo-Obleševo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCešinovo-Obleševo.private.md) 
+### [Cešinovo-Obleševo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cešinovo-Obleševo.protect.md) 
 
-### [Cešinovo-Obleševo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCešinovo-Obleševo.personal.md) 
+### [Cešinovo-Obleševo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cešinovo-Obleševo.private.md) 
 
-### [Cešinovo-Obleševo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaCešinovo-Obleševo.secret.md)
+### [Cešinovo-Obleševo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cešinovo-Obleševo.personal.md) 
+
+### [Cešinovo-Obleševo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cešinovo-Obleševo.secret.md)
 

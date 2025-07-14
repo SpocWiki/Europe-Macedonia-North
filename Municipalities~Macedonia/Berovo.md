@@ -41,15 +41,17 @@ markerFolder: ./Berovo/
 
 ## Confidential Links & Embeds: 
 
-### [Berovo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBerovo.public.md) 
+### [Berovo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Berovo.md) 
 
-### [Berovo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBerovo.internal.md) 
+### [Berovo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Berovo.public.md) 
 
-### [Berovo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBerovo.protect.md) 
+### [Berovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Berovo.internal.md) 
 
-### [Berovo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBerovo.private.md) 
+### [Berovo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Berovo.protect.md) 
 
-### [Berovo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBerovo.personal.md) 
+### [Berovo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Berovo.private.md) 
 
-### [Berovo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBerovo.secret.md)
+### [Berovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Berovo.personal.md) 
+
+### [Berovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Berovo.secret.md)
 

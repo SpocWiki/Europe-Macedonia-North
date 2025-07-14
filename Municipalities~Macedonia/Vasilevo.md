@@ -41,15 +41,17 @@ markerFolder: ./Vasilevo/
 
 ## Confidential Links & Embeds: 
 
-### [Vasilevo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVasilevo.public.md) 
+### [Vasilevo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vasilevo.md) 
 
-### [Vasilevo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVasilevo.internal.md) 
+### [Vasilevo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vasilevo.public.md) 
 
-### [Vasilevo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVasilevo.protect.md) 
+### [Vasilevo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vasilevo.internal.md) 
 
-### [Vasilevo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVasilevo.private.md) 
+### [Vasilevo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vasilevo.protect.md) 
 
-### [Vasilevo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVasilevo.personal.md) 
+### [Vasilevo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vasilevo.private.md) 
 
-### [Vasilevo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVasilevo.secret.md)
+### [Vasilevo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vasilevo.personal.md) 
+
+### [Vasilevo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vasilevo.secret.md)
 

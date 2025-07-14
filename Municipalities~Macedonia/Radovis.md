@@ -41,15 +41,17 @@ markerFolder: ./Radovis/
 
 ## Confidential Links & Embeds: 
 
-### [Radovis.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaRadovis.public.md) 
+### [Radovis](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Radovis.md) 
 
-### [Radovis.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaRadovis.internal.md) 
+### [Radovis.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Radovis.public.md) 
 
-### [Radovis.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaRadovis.protect.md) 
+### [Radovis.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Radovis.internal.md) 
 
-### [Radovis.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaRadovis.private.md) 
+### [Radovis.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Radovis.protect.md) 
 
-### [Radovis.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaRadovis.personal.md) 
+### [Radovis.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Radovis.private.md) 
 
-### [Radovis.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaRadovis.secret.md)
+### [Radovis.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Radovis.personal.md) 
+
+### [Radovis.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Radovis.secret.md)
 

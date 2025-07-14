@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Strumica.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Southeastern\CityStrumica.public.md) 
+### [Strumica](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern/City/Strumica.md) 
 
-### [Strumica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Southeastern\CityStrumica.internal.md) 
+### [Strumica.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern/City/Strumica.public.md) 
 
-### [Strumica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Southeastern\CityStrumica.protect.md) 
+### [Strumica.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern/City/Strumica.internal.md) 
 
-### [Strumica.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Southeastern\CityStrumica.private.md) 
+### [Strumica.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern/City/Strumica.protect.md) 
 
-### [Strumica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Southeastern\CityStrumica.personal.md) 
+### [Strumica.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern/City/Strumica.private.md) 
 
-### [Strumica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Southeastern\CityStrumica.secret.md)
+### [Strumica.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern/City/Strumica.personal.md) 
+
+### [Strumica.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern/City/Strumica.secret.md)
 

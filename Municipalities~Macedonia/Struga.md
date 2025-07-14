@@ -41,15 +41,17 @@ markerFolder: ./Struga/
 
 ## Confidential Links & Embeds: 
 
-### [Struga.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaStruga.public.md) 
+### [Struga](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Struga.md) 
 
-### [Struga.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaStruga.internal.md) 
+### [Struga.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Struga.public.md) 
 
-### [Struga.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaStruga.protect.md) 
+### [Struga.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Struga.internal.md) 
 
-### [Struga.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaStruga.private.md) 
+### [Struga.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Struga.protect.md) 
 
-### [Struga.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaStruga.personal.md) 
+### [Struga.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Struga.private.md) 
 
-### [Struga.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaStruga.secret.md)
+### [Struga.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Struga.personal.md) 
+
+### [Struga.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Struga.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Jegunovce/
 
 ## Confidential Links & Embeds: 
 
-### [Jegunovce.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaJegunovce.public.md) 
+### [Jegunovce](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Jegunovce.md) 
 
-### [Jegunovce.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaJegunovce.internal.md) 
+### [Jegunovce.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Jegunovce.public.md) 
 
-### [Jegunovce.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaJegunovce.protect.md) 
+### [Jegunovce.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Jegunovce.internal.md) 
 
-### [Jegunovce.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaJegunovce.private.md) 
+### [Jegunovce.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Jegunovce.protect.md) 
 
-### [Jegunovce.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaJegunovce.personal.md) 
+### [Jegunovce.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Jegunovce.private.md) 
 
-### [Jegunovce.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaJegunovce.secret.md)
+### [Jegunovce.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Jegunovce.personal.md) 
+
+### [Jegunovce.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Jegunovce.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Karpoš/
 
 ## Confidential Links & Embeds: 
 
-### [Karpoš.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKarpoš.public.md) 
+### [Karpoš](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karpoš.md) 
 
-### [Karpoš.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKarpoš.internal.md) 
+### [Karpoš.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karpoš.public.md) 
 
-### [Karpoš.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKarpoš.protect.md) 
+### [Karpoš.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karpoš.internal.md) 
 
-### [Karpoš.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKarpoš.private.md) 
+### [Karpoš.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karpoš.protect.md) 
 
-### [Karpoš.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKarpoš.personal.md) 
+### [Karpoš.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karpoš.private.md) 
 
-### [Karpoš.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKarpoš.secret.md)
+### [Karpoš.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karpoš.personal.md) 
+
+### [Karpoš.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karpoš.secret.md)
 

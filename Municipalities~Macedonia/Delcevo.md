@@ -41,15 +41,17 @@ markerFolder: ./Delcevo/
 
 ## Confidential Links & Embeds: 
 
-### [Delcevo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDelcevo.public.md) 
+### [Delcevo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Delcevo.md) 
 
-### [Delcevo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDelcevo.internal.md) 
+### [Delcevo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Delcevo.public.md) 
 
-### [Delcevo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDelcevo.protect.md) 
+### [Delcevo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Delcevo.internal.md) 
 
-### [Delcevo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDelcevo.private.md) 
+### [Delcevo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Delcevo.protect.md) 
 
-### [Delcevo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDelcevo.personal.md) 
+### [Delcevo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Delcevo.private.md) 
 
-### [Delcevo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDelcevo.secret.md)
+### [Delcevo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Delcevo.personal.md) 
+
+### [Delcevo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Delcevo.secret.md)
 

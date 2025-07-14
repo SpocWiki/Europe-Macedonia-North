@@ -41,15 +41,17 @@ markerFolder: ./Rankovce/
 
 ## Confidential Links & Embeds: 
 
-### [Rankovce.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaRankovce.public.md) 
+### [Rankovce](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Rankovce.md) 
 
-### [Rankovce.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaRankovce.internal.md) 
+### [Rankovce.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Rankovce.public.md) 
 
-### [Rankovce.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaRankovce.protect.md) 
+### [Rankovce.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Rankovce.internal.md) 
 
-### [Rankovce.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaRankovce.private.md) 
+### [Rankovce.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Rankovce.protect.md) 
 
-### [Rankovce.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaRankovce.personal.md) 
+### [Rankovce.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Rankovce.private.md) 
 
-### [Rankovce.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaRankovce.secret.md)
+### [Rankovce.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Rankovce.personal.md) 
+
+### [Rankovce.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Rankovce.secret.md)
 

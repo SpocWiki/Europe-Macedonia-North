@@ -41,15 +41,17 @@ markerFolder: ./Vevčani/
 
 ## Confidential Links & Embeds: 
 
-### [Vevčani.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVevčani.public.md) 
+### [Vevčani](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vevčani.md) 
 
-### [Vevčani.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVevčani.internal.md) 
+### [Vevčani.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vevčani.public.md) 
 
-### [Vevčani.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVevčani.protect.md) 
+### [Vevčani.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vevčani.internal.md) 
 
-### [Vevčani.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVevčani.private.md) 
+### [Vevčani.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vevčani.protect.md) 
 
-### [Vevčani.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVevčani.personal.md) 
+### [Vevčani.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vevčani.private.md) 
 
-### [Vevčani.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVevčani.secret.md)
+### [Vevčani.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vevčani.personal.md) 
+
+### [Vevčani.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vevčani.secret.md)
 

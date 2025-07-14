@@ -41,15 +41,17 @@ markerFolder: ./Novo_Selo/
 
 ## Confidential Links & Embeds: 
 
-### [Novo_Selo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNovo_Selo.public.md) 
+### [Novo_Selo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novo_Selo.md) 
 
-### [Novo_Selo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNovo_Selo.internal.md) 
+### [Novo_Selo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novo_Selo.public.md) 
 
-### [Novo_Selo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNovo_Selo.protect.md) 
+### [Novo_Selo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novo_Selo.internal.md) 
 
-### [Novo_Selo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNovo_Selo.private.md) 
+### [Novo_Selo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novo_Selo.protect.md) 
 
-### [Novo_Selo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNovo_Selo.personal.md) 
+### [Novo_Selo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novo_Selo.private.md) 
 
-### [Novo_Selo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNovo_Selo.secret.md)
+### [Novo_Selo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novo_Selo.personal.md) 
+
+### [Novo_Selo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novo_Selo.secret.md)
 

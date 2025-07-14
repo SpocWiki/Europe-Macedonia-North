@@ -41,15 +41,17 @@ markerFolder: ./Bitola/
 
 ## Confidential Links & Embeds: 
 
-### [Bitola.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBitola.public.md) 
+### [Bitola](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola.md) 
 
-### [Bitola.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBitola.internal.md) 
+### [Bitola.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola.public.md) 
 
-### [Bitola.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBitola.protect.md) 
+### [Bitola.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola.internal.md) 
 
-### [Bitola.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBitola.private.md) 
+### [Bitola.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola.protect.md) 
 
-### [Bitola.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBitola.personal.md) 
+### [Bitola.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola.private.md) 
 
-### [Bitola.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBitola.secret.md)
+### [Bitola.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola.personal.md) 
+
+### [Bitola.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Kavadartsi/
 
 ## Confidential Links & Embeds: 
 
-### [Kavadartsi.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKavadartsi.public.md) 
+### [Kavadartsi](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kavadartsi.md) 
 
-### [Kavadartsi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKavadartsi.internal.md) 
+### [Kavadartsi.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kavadartsi.public.md) 
 
-### [Kavadartsi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKavadartsi.protect.md) 
+### [Kavadartsi.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kavadartsi.internal.md) 
 
-### [Kavadartsi.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKavadartsi.private.md) 
+### [Kavadartsi.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kavadartsi.protect.md) 
 
-### [Kavadartsi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKavadartsi.personal.md) 
+### [Kavadartsi.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kavadartsi.private.md) 
 
-### [Kavadartsi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKavadartsi.secret.md)
+### [Kavadartsi.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kavadartsi.personal.md) 
+
+### [Kavadartsi.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kavadartsi.secret.md)
 

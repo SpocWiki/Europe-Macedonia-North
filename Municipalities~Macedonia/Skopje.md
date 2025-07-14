@@ -41,15 +41,17 @@ markerFolder: ./Skopje/
 
 ## Confidential Links & Embeds: 
 
-### [Skopje.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSkopje.public.md) 
+### [Skopje](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.md) 
 
-### [Skopje.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSkopje.internal.md) 
+### [Skopje.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.public.md) 
 
-### [Skopje.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSkopje.protect.md) 
+### [Skopje.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.internal.md) 
 
-### [Skopje.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSkopje.private.md) 
+### [Skopje.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.protect.md) 
 
-### [Skopje.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSkopje.personal.md) 
+### [Skopje.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.private.md) 
 
-### [Skopje.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSkopje.secret.md)
+### [Skopje.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.personal.md) 
+
+### [Skopje.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.secret.md)
 

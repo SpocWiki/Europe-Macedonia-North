@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trebiste.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar_župa\CityTrebiste.public.md) 
+### [Trebiste](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa/City/Trebiste.md) 
 
-### [Trebiste.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar_župa\CityTrebiste.internal.md) 
+### [Trebiste.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa/City/Trebiste.public.md) 
 
-### [Trebiste.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar_župa\CityTrebiste.protect.md) 
+### [Trebiste.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa/City/Trebiste.internal.md) 
 
-### [Trebiste.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar_župa\CityTrebiste.private.md) 
+### [Trebiste.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa/City/Trebiste.protect.md) 
 
-### [Trebiste.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar_župa\CityTrebiste.personal.md) 
+### [Trebiste.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa/City/Trebiste.private.md) 
 
-### [Trebiste.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar_župa\CityTrebiste.secret.md)
+### [Trebiste.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa/City/Trebiste.personal.md) 
+
+### [Trebiste.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar_župa/City/Trebiste.secret.md)
 

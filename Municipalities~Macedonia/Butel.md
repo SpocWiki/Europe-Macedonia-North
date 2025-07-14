@@ -41,15 +41,17 @@ markerFolder: ./Butel/
 
 ## Confidential Links & Embeds: 
 
-### [Butel.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaButel.public.md) 
+### [Butel](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Butel.md) 
 
-### [Butel.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaButel.internal.md) 
+### [Butel.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Butel.public.md) 
 
-### [Butel.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaButel.protect.md) 
+### [Butel.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Butel.internal.md) 
 
-### [Butel.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaButel.private.md) 
+### [Butel.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Butel.protect.md) 
 
-### [Butel.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaButel.personal.md) 
+### [Butel.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Butel.private.md) 
 
-### [Butel.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaButel.secret.md)
+### [Butel.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Butel.personal.md) 
+
+### [Butel.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Butel.secret.md)
 

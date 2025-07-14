@@ -41,15 +41,17 @@ markerFolder: ./Veles/
 
 ## Confidential Links & Embeds: 
 
-### [Veles.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVeles.public.md) 
+### [Veles](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Veles.md) 
 
-### [Veles.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVeles.internal.md) 
+### [Veles.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Veles.public.md) 
 
-### [Veles.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVeles.protect.md) 
+### [Veles.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Veles.internal.md) 
 
-### [Veles.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVeles.private.md) 
+### [Veles.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Veles.protect.md) 
 
-### [Veles.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVeles.personal.md) 
+### [Veles.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Veles.private.md) 
 
-### [Veles.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVeles.secret.md)
+### [Veles.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Veles.personal.md) 
+
+### [Veles.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Veles.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Zrnovci/
 
 ## Confidential Links & Embeds: 
 
-### [Zrnovci.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZrnovci.public.md) 
+### [Zrnovci](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zrnovci.md) 
 
-### [Zrnovci.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZrnovci.internal.md) 
+### [Zrnovci.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zrnovci.public.md) 
 
-### [Zrnovci.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZrnovci.protect.md) 
+### [Zrnovci.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zrnovci.internal.md) 
 
-### [Zrnovci.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZrnovci.private.md) 
+### [Zrnovci.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zrnovci.protect.md) 
 
-### [Zrnovci.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZrnovci.personal.md) 
+### [Zrnovci.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zrnovci.private.md) 
 
-### [Zrnovci.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZrnovci.secret.md)
+### [Zrnovci.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zrnovci.personal.md) 
+
+### [Zrnovci.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Zrnovci.secret.md)
 

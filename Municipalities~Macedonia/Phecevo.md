@@ -41,15 +41,17 @@ markerFolder: ./Phecevo/
 
 ## Confidential Links & Embeds: 
 
-### [Phecevo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPhecevo.public.md) 
+### [Phecevo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Phecevo.md) 
 
-### [Phecevo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPhecevo.internal.md) 
+### [Phecevo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Phecevo.public.md) 
 
-### [Phecevo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPhecevo.protect.md) 
+### [Phecevo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Phecevo.internal.md) 
 
-### [Phecevo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPhecevo.private.md) 
+### [Phecevo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Phecevo.protect.md) 
 
-### [Phecevo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPhecevo.personal.md) 
+### [Phecevo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Phecevo.private.md) 
 
-### [Phecevo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPhecevo.secret.md)
+### [Phecevo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Phecevo.personal.md) 
+
+### [Phecevo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Phecevo.secret.md)
 

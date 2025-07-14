@@ -41,15 +41,17 @@ markerFolder: ./Southeastern/
 
 ## Confidential Links & Embeds: 
 
-### [Southeastern.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSoutheastern.public.md) 
+### [Southeastern](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern.md) 
 
-### [Southeastern.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSoutheastern.internal.md) 
+### [Southeastern.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern.public.md) 
 
-### [Southeastern.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSoutheastern.protect.md) 
+### [Southeastern.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern.internal.md) 
 
-### [Southeastern.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSoutheastern.private.md) 
+### [Southeastern.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern.protect.md) 
 
-### [Southeastern.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSoutheastern.personal.md) 
+### [Southeastern.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern.private.md) 
 
-### [Southeastern.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSoutheastern.secret.md)
+### [Southeastern.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern.personal.md) 
+
+### [Southeastern.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Southeastern.secret.md)
 

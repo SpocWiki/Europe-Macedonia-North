@@ -41,15 +41,17 @@ markerFolder: ./Drugovo/
 
 ## Confidential Links & Embeds: 
 
-### [Drugovo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDrugovo.public.md) 
+### [Drugovo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Drugovo.md) 
 
-### [Drugovo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDrugovo.internal.md) 
+### [Drugovo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Drugovo.public.md) 
 
-### [Drugovo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDrugovo.protect.md) 
+### [Drugovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Drugovo.internal.md) 
 
-### [Drugovo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDrugovo.private.md) 
+### [Drugovo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Drugovo.protect.md) 
 
-### [Drugovo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDrugovo.personal.md) 
+### [Drugovo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Drugovo.private.md) 
 
-### [Drugovo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDrugovo.secret.md)
+### [Drugovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Drugovo.personal.md) 
+
+### [Drugovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Drugovo.secret.md)
 

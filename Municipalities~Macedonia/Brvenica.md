@@ -41,15 +41,17 @@ markerFolder: ./Brvenica/
 
 ## Confidential Links & Embeds: 
 
-### [Brvenica.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBrvenica.public.md) 
+### [Brvenica](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brvenica.md) 
 
-### [Brvenica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBrvenica.internal.md) 
+### [Brvenica.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brvenica.public.md) 
 
-### [Brvenica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBrvenica.protect.md) 
+### [Brvenica.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brvenica.internal.md) 
 
-### [Brvenica.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBrvenica.private.md) 
+### [Brvenica.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brvenica.protect.md) 
 
-### [Brvenica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBrvenica.personal.md) 
+### [Brvenica.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brvenica.private.md) 
 
-### [Brvenica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBrvenica.secret.md)
+### [Brvenica.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brvenica.personal.md) 
+
+### [Brvenica.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Brvenica.secret.md)
 

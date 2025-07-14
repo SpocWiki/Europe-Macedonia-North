@@ -41,15 +41,17 @@ markerFolder: ./Bosilovo/
 
 ## Confidential Links & Embeds: 
 
-### [Bosilovo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBosilovo.public.md) 
+### [Bosilovo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bosilovo.md) 
 
-### [Bosilovo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBosilovo.internal.md) 
+### [Bosilovo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bosilovo.public.md) 
 
-### [Bosilovo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBosilovo.protect.md) 
+### [Bosilovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bosilovo.internal.md) 
 
-### [Bosilovo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBosilovo.private.md) 
+### [Bosilovo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bosilovo.protect.md) 
 
-### [Bosilovo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBosilovo.personal.md) 
+### [Bosilovo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bosilovo.private.md) 
 
-### [Bosilovo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaBosilovo.secret.md)
+### [Bosilovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bosilovo.personal.md) 
+
+### [Bosilovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bosilovo.secret.md)
 

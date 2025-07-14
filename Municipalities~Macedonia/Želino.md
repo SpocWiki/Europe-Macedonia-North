@@ -41,15 +41,17 @@ markerFolder: ./Želino/
 
 ## Confidential Links & Embeds: 
 
-### [Želino.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŽelino.public.md) 
+### [Želino](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Želino.md) 
 
-### [Želino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŽelino.internal.md) 
+### [Želino.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Želino.public.md) 
 
-### [Želino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŽelino.protect.md) 
+### [Želino.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Želino.internal.md) 
 
-### [Želino.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŽelino.private.md) 
+### [Želino.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Želino.protect.md) 
 
-### [Želino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŽelino.personal.md) 
+### [Želino.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Želino.private.md) 
 
-### [Želino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaŽelino.secret.md)
+### [Želino.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Želino.personal.md) 
+
+### [Želino.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Želino.secret.md)
 

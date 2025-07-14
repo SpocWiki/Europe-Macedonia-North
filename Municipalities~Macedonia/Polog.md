@@ -41,15 +41,17 @@ markerFolder: ./Polog/
 
 ## Confidential Links & Embeds: 
 
-### [Polog.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPolog.public.md) 
+### [Polog](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Polog.md) 
 
-### [Polog.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPolog.internal.md) 
+### [Polog.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Polog.public.md) 
 
-### [Polog.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPolog.protect.md) 
+### [Polog.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Polog.internal.md) 
 
-### [Polog.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPolog.private.md) 
+### [Polog.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Polog.protect.md) 
 
-### [Polog.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPolog.personal.md) 
+### [Polog.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Polog.private.md) 
 
-### [Polog.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPolog.secret.md)
+### [Polog.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Polog.personal.md) 
+
+### [Polog.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Polog.secret.md)
 

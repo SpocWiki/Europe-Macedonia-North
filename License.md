@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~NorthLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~NorthLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~NorthLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~NorthLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~NorthLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~NorthLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/License.secret.md)
 

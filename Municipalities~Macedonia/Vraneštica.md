@@ -41,15 +41,17 @@ markerFolder: ./Vraneštica/
 
 ## Confidential Links & Embeds: 
 
-### [Vraneštica.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVraneštica.public.md) 
+### [Vraneštica](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vraneštica.md) 
 
-### [Vraneštica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVraneštica.internal.md) 
+### [Vraneštica.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vraneštica.public.md) 
 
-### [Vraneštica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVraneštica.protect.md) 
+### [Vraneštica.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vraneštica.internal.md) 
 
-### [Vraneštica.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVraneštica.private.md) 
+### [Vraneštica.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vraneštica.protect.md) 
 
-### [Vraneštica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVraneštica.personal.md) 
+### [Vraneštica.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vraneštica.private.md) 
 
-### [Vraneštica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVraneštica.secret.md)
+### [Vraneštica.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vraneštica.personal.md) 
+
+### [Vraneštica.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vraneštica.secret.md)
 

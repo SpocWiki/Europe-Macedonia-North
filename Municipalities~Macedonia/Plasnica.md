@@ -41,15 +41,17 @@ markerFolder: ./Plasnica/
 
 ## Confidential Links & Embeds: 
 
-### [Plasnica.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPlasnica.public.md) 
+### [Plasnica](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Plasnica.md) 
 
-### [Plasnica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPlasnica.internal.md) 
+### [Plasnica.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Plasnica.public.md) 
 
-### [Plasnica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPlasnica.protect.md) 
+### [Plasnica.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Plasnica.internal.md) 
 
-### [Plasnica.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPlasnica.private.md) 
+### [Plasnica.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Plasnica.protect.md) 
 
-### [Plasnica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPlasnica.personal.md) 
+### [Plasnica.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Plasnica.private.md) 
 
-### [Plasnica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPlasnica.secret.md)
+### [Plasnica.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Plasnica.personal.md) 
+
+### [Plasnica.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Plasnica.secret.md)
 

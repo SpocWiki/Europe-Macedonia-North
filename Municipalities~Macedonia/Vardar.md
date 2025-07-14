@@ -41,15 +41,17 @@ markerFolder: ./Vardar/
 
 ## Confidential Links & Embeds: 
 
-### [Vardar.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVardar.public.md) 
+### [Vardar](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vardar.md) 
 
-### [Vardar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVardar.internal.md) 
+### [Vardar.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vardar.public.md) 
 
-### [Vardar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVardar.protect.md) 
+### [Vardar.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vardar.internal.md) 
 
-### [Vardar.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVardar.private.md) 
+### [Vardar.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vardar.protect.md) 
 
-### [Vardar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVardar.personal.md) 
+### [Vardar.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vardar.private.md) 
 
-### [Vardar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaVardar.secret.md)
+### [Vardar.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vardar.personal.md) 
+
+### [Vardar.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Vardar.secret.md)
 

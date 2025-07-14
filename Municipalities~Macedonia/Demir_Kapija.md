@@ -41,15 +41,17 @@ markerFolder: ./Demir_Kapija/
 
 ## Confidential Links & Embeds: 
 
-### [Demir_Kapija.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDemir_Kapija.public.md) 
+### [Demir_Kapija](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.md) 
 
-### [Demir_Kapija.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDemir_Kapija.internal.md) 
+### [Demir_Kapija.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.public.md) 
 
-### [Demir_Kapija.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDemir_Kapija.protect.md) 
+### [Demir_Kapija.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.internal.md) 
 
-### [Demir_Kapija.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDemir_Kapija.private.md) 
+### [Demir_Kapija.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.protect.md) 
 
-### [Demir_Kapija.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDemir_Kapija.personal.md) 
+### [Demir_Kapija.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.private.md) 
 
-### [Demir_Kapija.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDemir_Kapija.secret.md)
+### [Demir_Kapija.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.personal.md) 
+
+### [Demir_Kapija.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.secret.md)
 

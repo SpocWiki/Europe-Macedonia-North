@@ -41,15 +41,17 @@ markerFolder: ./Sopiste/
 
 ## Confidential Links & Embeds: 
 
-### [Sopiste.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSopiste.public.md) 
+### [Sopiste](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sopiste.md) 
 
-### [Sopiste.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSopiste.internal.md) 
+### [Sopiste.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sopiste.public.md) 
 
-### [Sopiste.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSopiste.protect.md) 
+### [Sopiste.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sopiste.internal.md) 
 
-### [Sopiste.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSopiste.private.md) 
+### [Sopiste.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sopiste.protect.md) 
 
-### [Sopiste.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSopiste.personal.md) 
+### [Sopiste.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sopiste.private.md) 
 
-### [Sopiste.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSopiste.secret.md)
+### [Sopiste.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sopiste.personal.md) 
+
+### [Sopiste.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sopiste.secret.md)
 

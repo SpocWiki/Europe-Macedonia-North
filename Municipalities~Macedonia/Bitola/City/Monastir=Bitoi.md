@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monastir=Bitoi.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Bitola\CityMonastir=Bitoi.public.md) 
+### [Monastir=Bitoi](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.md) 
 
-### [Monastir=Bitoi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Bitola\CityMonastir=Bitoi.internal.md) 
+### [Monastir=Bitoi.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.public.md) 
 
-### [Monastir=Bitoi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Bitola\CityMonastir=Bitoi.protect.md) 
+### [Monastir=Bitoi.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.internal.md) 
 
-### [Monastir=Bitoi.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Bitola\CityMonastir=Bitoi.private.md) 
+### [Monastir=Bitoi.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.protect.md) 
 
-### [Monastir=Bitoi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Bitola\CityMonastir=Bitoi.personal.md) 
+### [Monastir=Bitoi.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.private.md) 
 
-### [Monastir=Bitoi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Bitola\CityMonastir=Bitoi.secret.md)
+### [Monastir=Bitoi.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.personal.md) 
+
+### [Monastir=Bitoi.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.secret.md)
 

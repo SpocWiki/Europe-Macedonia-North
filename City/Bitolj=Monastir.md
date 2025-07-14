@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bitolj=Monastir.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\CityBitolj=Monastir.public.md) 
+### [Bitolj=Monastir](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.md) 
 
-### [Bitolj=Monastir.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\CityBitolj=Monastir.internal.md) 
+### [Bitolj=Monastir.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.public.md) 
 
-### [Bitolj=Monastir.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\CityBitolj=Monastir.protect.md) 
+### [Bitolj=Monastir.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.internal.md) 
 
-### [Bitolj=Monastir.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\CityBitolj=Monastir.private.md) 
+### [Bitolj=Monastir.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.protect.md) 
 
-### [Bitolj=Monastir.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\CityBitolj=Monastir.personal.md) 
+### [Bitolj=Monastir.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.private.md) 
 
-### [Bitolj=Monastir.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\CityBitolj=Monastir.secret.md)
+### [Bitolj=Monastir.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.personal.md) 
+
+### [Bitolj=Monastir.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.secret.md)
 

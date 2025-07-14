@@ -41,15 +41,17 @@ markerFolder: ./Ohrid/
 
 ## Confidential Links & Embeds: 
 
-### [Ohrid.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaOhrid.public.md) 
+### [Ohrid](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Ohrid.md) 
 
-### [Ohrid.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaOhrid.internal.md) 
+### [Ohrid.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Ohrid.public.md) 
 
-### [Ohrid.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaOhrid.protect.md) 
+### [Ohrid.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Ohrid.internal.md) 
 
-### [Ohrid.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaOhrid.private.md) 
+### [Ohrid.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Ohrid.protect.md) 
 
-### [Ohrid.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaOhrid.personal.md) 
+### [Ohrid.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Ohrid.private.md) 
 
-### [Ohrid.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaOhrid.secret.md)
+### [Ohrid.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Ohrid.personal.md) 
+
+### [Ohrid.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Ohrid.secret.md)
 

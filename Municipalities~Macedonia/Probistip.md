@@ -41,15 +41,17 @@ markerFolder: ./Probistip/
 
 ## Confidential Links & Embeds: 
 
-### [Probistip.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaProbistip.public.md) 
+### [Probistip](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Probistip.md) 
 
-### [Probistip.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaProbistip.internal.md) 
+### [Probistip.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Probistip.public.md) 
 
-### [Probistip.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaProbistip.protect.md) 
+### [Probistip.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Probistip.internal.md) 
 
-### [Probistip.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaProbistip.private.md) 
+### [Probistip.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Probistip.protect.md) 
 
-### [Probistip.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaProbistip.personal.md) 
+### [Probistip.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Probistip.private.md) 
 
-### [Probistip.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaProbistip.secret.md)
+### [Probistip.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Probistip.personal.md) 
+
+### [Probistip.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Probistip.secret.md)
 

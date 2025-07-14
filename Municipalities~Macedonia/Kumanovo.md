@@ -41,15 +41,17 @@ markerFolder: ./Kumanovo/
 
 ## Confidential Links & Embeds: 
 
-### [Kumanovo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKumanovo.public.md) 
+### [Kumanovo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kumanovo.md) 
 
-### [Kumanovo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKumanovo.internal.md) 
+### [Kumanovo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kumanovo.public.md) 
 
-### [Kumanovo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKumanovo.protect.md) 
+### [Kumanovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kumanovo.internal.md) 
 
-### [Kumanovo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKumanovo.private.md) 
+### [Kumanovo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kumanovo.protect.md) 
 
-### [Kumanovo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKumanovo.personal.md) 
+### [Kumanovo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kumanovo.private.md) 
 
-### [Kumanovo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKumanovo.secret.md)
+### [Kumanovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kumanovo.personal.md) 
+
+### [Kumanovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kumanovo.secret.md)
 

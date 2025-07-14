@@ -41,15 +41,17 @@ markerFolder: ./Novatsi/
 
 ## Confidential Links & Embeds: 
 
-### [Novatsi.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNovatsi.public.md) 
+### [Novatsi](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novatsi.md) 
 
-### [Novatsi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNovatsi.internal.md) 
+### [Novatsi.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novatsi.public.md) 
 
-### [Novatsi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNovatsi.protect.md) 
+### [Novatsi.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novatsi.internal.md) 
 
-### [Novatsi.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNovatsi.private.md) 
+### [Novatsi.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novatsi.protect.md) 
 
-### [Novatsi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNovatsi.personal.md) 
+### [Novatsi.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novatsi.private.md) 
 
-### [Novatsi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNovatsi.secret.md)
+### [Novatsi.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novatsi.personal.md) 
+
+### [Novatsi.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Novatsi.secret.md)
 

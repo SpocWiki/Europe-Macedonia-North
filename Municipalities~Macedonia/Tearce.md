@@ -41,15 +41,17 @@ markerFolder: ./Tearce/
 
 ## Confidential Links & Embeds: 
 
-### [Tearce.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaTearce.public.md) 
+### [Tearce](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tearce.md) 
 
-### [Tearce.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaTearce.internal.md) 
+### [Tearce.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tearce.public.md) 
 
-### [Tearce.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaTearce.protect.md) 
+### [Tearce.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tearce.internal.md) 
 
-### [Tearce.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaTearce.private.md) 
+### [Tearce.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tearce.protect.md) 
 
-### [Tearce.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaTearce.personal.md) 
+### [Tearce.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tearce.private.md) 
 
-### [Tearce.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaTearce.secret.md)
+### [Tearce.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tearce.personal.md) 
+
+### [Tearce.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Tearce.secret.md)
 

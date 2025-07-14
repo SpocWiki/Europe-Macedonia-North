@@ -41,15 +41,17 @@ markerFolder: ./Krivogaštani/
 
 ## Confidential Links & Embeds: 
 
-### [Krivogaštani.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKrivogaštani.public.md) 
+### [Krivogaštani](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Krivogaštani.md) 
 
-### [Krivogaštani.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKrivogaštani.internal.md) 
+### [Krivogaštani.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Krivogaštani.public.md) 
 
-### [Krivogaštani.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKrivogaštani.protect.md) 
+### [Krivogaštani.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Krivogaštani.internal.md) 
 
-### [Krivogaštani.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKrivogaštani.private.md) 
+### [Krivogaštani.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Krivogaštani.protect.md) 
 
-### [Krivogaštani.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKrivogaštani.personal.md) 
+### [Krivogaštani.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Krivogaštani.private.md) 
 
-### [Krivogaštani.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKrivogaštani.secret.md)
+### [Krivogaštani.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Krivogaštani.personal.md) 
+
+### [Krivogaštani.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Krivogaštani.secret.md)
 

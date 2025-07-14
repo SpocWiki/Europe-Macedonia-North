@@ -41,15 +41,17 @@ markerFolder: ./Demir_Hisar/
 
 ## Confidential Links & Embeds: 
 
-### [Demir_Hisar.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDemir_Hisar.public.md) 
+### [Demir_Hisar](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.md) 
 
-### [Demir_Hisar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDemir_Hisar.internal.md) 
+### [Demir_Hisar.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.public.md) 
 
-### [Demir_Hisar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDemir_Hisar.protect.md) 
+### [Demir_Hisar.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.internal.md) 
 
-### [Demir_Hisar.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDemir_Hisar.private.md) 
+### [Demir_Hisar.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.protect.md) 
 
-### [Demir_Hisar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDemir_Hisar.personal.md) 
+### [Demir_Hisar.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.private.md) 
 
-### [Demir_Hisar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDemir_Hisar.secret.md)
+### [Demir_Hisar.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.personal.md) 
+
+### [Demir_Hisar.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Prilep/
 
 ## Confidential Links & Embeds: 
 
-### [Prilep.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPrilep.public.md) 
+### [Prilep](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Prilep.md) 
 
-### [Prilep.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPrilep.internal.md) 
+### [Prilep.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Prilep.public.md) 
 
-### [Prilep.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPrilep.protect.md) 
+### [Prilep.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Prilep.internal.md) 
 
-### [Prilep.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPrilep.private.md) 
+### [Prilep.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Prilep.protect.md) 
 
-### [Prilep.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPrilep.personal.md) 
+### [Prilep.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Prilep.private.md) 
 
-### [Prilep.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaPrilep.secret.md)
+### [Prilep.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Prilep.personal.md) 
+
+### [Prilep.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Prilep.secret.md)
 

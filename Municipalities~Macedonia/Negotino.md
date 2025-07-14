@@ -41,15 +41,17 @@ markerFolder: ./Negotino/
 
 ## Confidential Links & Embeds: 
 
-### [Negotino.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNegotino.public.md) 
+### [Negotino](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Negotino.md) 
 
-### [Negotino.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNegotino.internal.md) 
+### [Negotino.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Negotino.public.md) 
 
-### [Negotino.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNegotino.protect.md) 
+### [Negotino.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Negotino.internal.md) 
 
-### [Negotino.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNegotino.private.md) 
+### [Negotino.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Negotino.protect.md) 
 
-### [Negotino.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNegotino.personal.md) 
+### [Negotino.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Negotino.private.md) 
 
-### [Negotino.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNegotino.secret.md)
+### [Negotino.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Negotino.personal.md) 
+
+### [Negotino.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Negotino.secret.md)
 

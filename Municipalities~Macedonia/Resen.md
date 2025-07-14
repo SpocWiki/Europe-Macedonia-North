@@ -41,15 +41,17 @@ markerFolder: ./Resen/
 
 ## Confidential Links & Embeds: 
 
-### [Resen.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaResen.public.md) 
+### [Resen](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Resen.md) 
 
-### [Resen.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaResen.internal.md) 
+### [Resen.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Resen.public.md) 
 
-### [Resen.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaResen.protect.md) 
+### [Resen.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Resen.internal.md) 
 
-### [Resen.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaResen.private.md) 
+### [Resen.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Resen.protect.md) 
 
-### [Resen.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaResen.personal.md) 
+### [Resen.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Resen.private.md) 
 
-### [Resen.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaResen.secret.md)
+### [Resen.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Resen.personal.md) 
+
+### [Resen.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Resen.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Oslomej/
 
 ## Confidential Links & Embeds: 
 
-### [Oslomej.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaOslomej.public.md) 
+### [Oslomej](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Oslomej.md) 
 
-### [Oslomej.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaOslomej.internal.md) 
+### [Oslomej.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Oslomej.public.md) 
 
-### [Oslomej.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaOslomej.protect.md) 
+### [Oslomej.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Oslomej.internal.md) 
 
-### [Oslomej.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaOslomej.private.md) 
+### [Oslomej.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Oslomej.protect.md) 
 
-### [Oslomej.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaOslomej.personal.md) 
+### [Oslomej.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Oslomej.private.md) 
 
-### [Oslomej.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaOslomej.secret.md)
+### [Oslomej.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Oslomej.personal.md) 
+
+### [Oslomej.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Oslomej.secret.md)
 

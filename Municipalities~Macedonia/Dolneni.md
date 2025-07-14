@@ -41,15 +41,17 @@ markerFolder: ./Dolneni/
 
 ## Confidential Links & Embeds: 
 
-### [Dolneni.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDolneni.public.md) 
+### [Dolneni](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dolneni.md) 
 
-### [Dolneni.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDolneni.internal.md) 
+### [Dolneni.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dolneni.public.md) 
 
-### [Dolneni.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDolneni.protect.md) 
+### [Dolneni.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dolneni.internal.md) 
 
-### [Dolneni.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDolneni.private.md) 
+### [Dolneni.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dolneni.protect.md) 
 
-### [Dolneni.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDolneni.personal.md) 
+### [Dolneni.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dolneni.private.md) 
 
-### [Dolneni.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaDolneni.secret.md)
+### [Dolneni.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dolneni.personal.md) 
+
+### [Dolneni.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dolneni.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Gostivar/
 
 ## Confidential Links & Embeds: 
 
-### [Gostivar.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGostivar.public.md) 
+### [Gostivar](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gostivar.md) 
 
-### [Gostivar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGostivar.internal.md) 
+### [Gostivar.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gostivar.public.md) 
 
-### [Gostivar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGostivar.protect.md) 
+### [Gostivar.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gostivar.internal.md) 
 
-### [Gostivar.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGostivar.private.md) 
+### [Gostivar.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gostivar.protect.md) 
 
-### [Gostivar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGostivar.personal.md) 
+### [Gostivar.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gostivar.private.md) 
 
-### [Gostivar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGostivar.secret.md)
+### [Gostivar.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gostivar.personal.md) 
+
+### [Gostivar.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Gostivar.secret.md)
 

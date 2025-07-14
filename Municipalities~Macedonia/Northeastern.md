@@ -41,15 +41,17 @@ markerFolder: ./Northeastern/
 
 ## Confidential Links & Embeds: 
 
-### [Northeastern.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNortheastern.public.md) 
+### [Northeastern](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Northeastern.md) 
 
-### [Northeastern.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNortheastern.internal.md) 
+### [Northeastern.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Northeastern.public.md) 
 
-### [Northeastern.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNortheastern.protect.md) 
+### [Northeastern.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Northeastern.internal.md) 
 
-### [Northeastern.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNortheastern.private.md) 
+### [Northeastern.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Northeastern.protect.md) 
 
-### [Northeastern.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNortheastern.personal.md) 
+### [Northeastern.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Northeastern.private.md) 
 
-### [Northeastern.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaNortheastern.secret.md)
+### [Northeastern.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Northeastern.personal.md) 
+
+### [Northeastern.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Northeastern.secret.md)
 

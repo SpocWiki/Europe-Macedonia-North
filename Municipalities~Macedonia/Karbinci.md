@@ -41,15 +41,17 @@ markerFolder: ./Karbinci/
 
 ## Confidential Links & Embeds: 
 
-### [Karbinci.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKarbinci.public.md) 
+### [Karbinci](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karbinci.md) 
 
-### [Karbinci.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKarbinci.internal.md) 
+### [Karbinci.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karbinci.public.md) 
 
-### [Karbinci.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKarbinci.protect.md) 
+### [Karbinci.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karbinci.internal.md) 
 
-### [Karbinci.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKarbinci.private.md) 
+### [Karbinci.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karbinci.protect.md) 
 
-### [Karbinci.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKarbinci.personal.md) 
+### [Karbinci.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karbinci.private.md) 
 
-### [Karbinci.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKarbinci.secret.md)
+### [Karbinci.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karbinci.personal.md) 
+
+### [Karbinci.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Karbinci.secret.md)
 

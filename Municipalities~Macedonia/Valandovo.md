@@ -41,15 +41,17 @@ markerFolder: ./Valandovo/
 
 ## Confidential Links & Embeds: 
 
-### [Valandovo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaValandovo.public.md) 
+### [Valandovo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Valandovo.md) 
 
-### [Valandovo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaValandovo.internal.md) 
+### [Valandovo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Valandovo.public.md) 
 
-### [Valandovo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaValandovo.protect.md) 
+### [Valandovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Valandovo.internal.md) 
 
-### [Valandovo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaValandovo.private.md) 
+### [Valandovo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Valandovo.protect.md) 
 
-### [Valandovo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaValandovo.personal.md) 
+### [Valandovo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Valandovo.private.md) 
 
-### [Valandovo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaValandovo.secret.md)
+### [Valandovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Valandovo.personal.md) 
+
+### [Valandovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Valandovo.secret.md)
 

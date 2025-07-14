@@ -41,15 +41,17 @@ markerFolder: ./Lipkovo/
 
 ## Confidential Links & Embeds: 
 
-### [Lipkovo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaLipkovo.public.md) 
+### [Lipkovo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo.md) 
 
-### [Lipkovo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaLipkovo.internal.md) 
+### [Lipkovo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo.public.md) 
 
-### [Lipkovo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaLipkovo.protect.md) 
+### [Lipkovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo.internal.md) 
 
-### [Lipkovo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaLipkovo.private.md) 
+### [Lipkovo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo.protect.md) 
 
-### [Lipkovo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaLipkovo.personal.md) 
+### [Lipkovo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo.private.md) 
 
-### [Lipkovo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaLipkovo.secret.md)
+### [Lipkovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo.personal.md) 
+
+### [Lipkovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Lipkovo.secret.md)
 

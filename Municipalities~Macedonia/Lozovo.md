@@ -40,11 +40,16 @@ markerFolder: ./Lozovo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Lozovo|Lozovo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Lozovo.public|Lozovo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Lozovo.internal|Lozovo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Lozovo.protect|Lozovo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Lozovo.private|Lozovo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Lozovo.personal|Lozovo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Lozovo.secret|Lozovo.secret]] 
+
+### [Lozovo.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaLozovo.public.md) 
+
+### [Lozovo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaLozovo.internal.md) 
+
+### [Lozovo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaLozovo.protect.md) 
+
+### [Lozovo.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaLozovo.private.md) 
+
+### [Lozovo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaLozovo.personal.md) 
+
+### [Lozovo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaLozovo.secret.md)
 

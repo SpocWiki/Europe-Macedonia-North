@@ -40,11 +40,16 @@ markerFolder: ./Zajas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas|Zajas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas.public|Zajas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas.internal|Zajas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas.protect|Zajas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas.private|Zajas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas.personal|Zajas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Zajas.secret|Zajas.secret]] 
+
+### [Zajas.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZajas.public.md) 
+
+### [Zajas.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZajas.internal.md) 
+
+### [Zajas.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZajas.protect.md) 
+
+### [Zajas.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZajas.private.md) 
+
+### [Zajas.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZajas.personal.md) 
+
+### [Zajas.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaZajas.secret.md)
 

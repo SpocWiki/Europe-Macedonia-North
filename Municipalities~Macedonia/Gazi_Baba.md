@@ -40,11 +40,16 @@ markerFolder: ./Gazi_Baba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gazi_Baba|Gazi_Baba]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gazi_Baba.public|Gazi_Baba.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gazi_Baba.internal|Gazi_Baba.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gazi_Baba.protect|Gazi_Baba.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gazi_Baba.private|Gazi_Baba.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gazi_Baba.personal|Gazi_Baba.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Gazi_Baba.secret|Gazi_Baba.secret]] 
+
+### [Gazi_Baba.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGazi_Baba.public.md) 
+
+### [Gazi_Baba.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGazi_Baba.internal.md) 
+
+### [Gazi_Baba.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGazi_Baba.protect.md) 
+
+### [Gazi_Baba.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGazi_Baba.private.md) 
+
+### [Gazi_Baba.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGazi_Baba.personal.md) 
+
+### [Gazi_Baba.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaGazi_Baba.secret.md)
 

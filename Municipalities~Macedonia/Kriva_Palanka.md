@@ -40,11 +40,16 @@ markerFolder: ./Kriva_Palanka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kriva_Palanka|Kriva_Palanka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kriva_Palanka.public|Kriva_Palanka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kriva_Palanka.internal|Kriva_Palanka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kriva_Palanka.protect|Kriva_Palanka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kriva_Palanka.private|Kriva_Palanka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kriva_Palanka.personal|Kriva_Palanka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kriva_Palanka.secret|Kriva_Palanka.secret]] 
+
+### [Kriva_Palanka.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKriva_Palanka.public.md) 
+
+### [Kriva_Palanka.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKriva_Palanka.internal.md) 
+
+### [Kriva_Palanka.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKriva_Palanka.protect.md) 
+
+### [Kriva_Palanka.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKriva_Palanka.private.md) 
+
+### [Kriva_Palanka.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKriva_Palanka.personal.md) 
+
+### [Kriva_Palanka.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKriva_Palanka.secret.md)
 

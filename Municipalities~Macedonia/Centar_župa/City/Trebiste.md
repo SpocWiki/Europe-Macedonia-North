@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Trebiste|Trebiste]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Trebiste.public|Trebiste.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Trebiste.internal|Trebiste.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Trebiste.protect|Trebiste.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Trebiste.private|Trebiste.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Trebiste.personal|Trebiste.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Trebiste.secret|Trebiste.secret]] 
+
+### [Trebiste.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar_župa\CityTrebiste.public.md) 
+
+### [Trebiste.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar_župa\CityTrebiste.internal.md) 
+
+### [Trebiste.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar_župa\CityTrebiste.protect.md) 
+
+### [Trebiste.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar_župa\CityTrebiste.private.md) 
+
+### [Trebiste.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar_župa\CityTrebiste.personal.md) 
+
+### [Trebiste.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar_župa\CityTrebiste.secret.md)
+

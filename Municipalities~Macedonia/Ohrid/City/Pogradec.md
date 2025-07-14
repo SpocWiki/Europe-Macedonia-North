@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Albania/City/Pogradec|Pogradec]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Albania/City/Pogradec.public|Pogradec.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Albania/City/Pogradec.internal|Pogradec.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Albania/City/Pogradec.protect|Pogradec.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Albania/City/Pogradec.private|Pogradec.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Albania/City/Pogradec.personal|Pogradec.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Albania/City/Pogradec.secret|Pogradec.secret]] 
+
+### [Pogradec.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Ohrid\CityPogradec.public.md) 
+
+### [Pogradec.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Ohrid\CityPogradec.internal.md) 
+
+### [Pogradec.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Ohrid\CityPogradec.protect.md) 
+
+### [Pogradec.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Ohrid\CityPogradec.private.md) 
+
+### [Pogradec.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Ohrid\CityPogradec.personal.md) 
+
+### [Pogradec.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Ohrid\CityPogradec.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Monastir=Bitoi|Monastir=Bitoi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Monastir=Bitoi.public|Monastir=Bitoi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Monastir=Bitoi.internal|Monastir=Bitoi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Monastir=Bitoi.protect|Monastir=Bitoi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Monastir=Bitoi.private|Monastir=Bitoi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Monastir=Bitoi.personal|Monastir=Bitoi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Monastir=Bitoi.secret|Monastir=Bitoi.secret]] 
+
+### [Monastir=Bitoi.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Bitola\CityMonastir=Bitoi.public.md) 
+
+### [Monastir=Bitoi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Bitola\CityMonastir=Bitoi.internal.md) 
+
+### [Monastir=Bitoi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Bitola\CityMonastir=Bitoi.protect.md) 
+
+### [Monastir=Bitoi.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Bitola\CityMonastir=Bitoi.private.md) 
+
+### [Monastir=Bitoi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Bitola\CityMonastir=Bitoi.personal.md) 
+
+### [Monastir=Bitoi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Bitola\CityMonastir=Bitoi.secret.md)
+

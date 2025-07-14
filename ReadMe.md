@@ -39,12 +39,17 @@ Capital :: [[./Macedonia~North/Counties/Skopje]]
 [has_place_latitude::41.98] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North|Macedonia~North]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North.public|Macedonia~North.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North.internal|Macedonia~North.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North.protect|Macedonia~North.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North.private|Macedonia~North.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North.personal|Macedonia~North.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North.secret|Macedonia~North.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~NorthReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~NorthReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~NorthReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~NorthReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~NorthReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~NorthReadMe.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Makedonska_Kamenica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica|Makedonska_Kamenica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica.public|Makedonska_Kamenica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica.internal|Makedonska_Kamenica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica.protect|Makedonska_Kamenica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica.private|Makedonska_Kamenica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica.personal|Makedonska_Kamenica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Makedonska_Kamenica.secret|Makedonska_Kamenica.secret]] 
+
+### [Makedonska_Kamenica.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaMakedonska_Kamenica.public.md) 
+
+### [Makedonska_Kamenica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaMakedonska_Kamenica.internal.md) 
+
+### [Makedonska_Kamenica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaMakedonska_Kamenica.protect.md) 
+
+### [Makedonska_Kamenica.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaMakedonska_Kamenica.private.md) 
+
+### [Makedonska_Kamenica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaMakedonska_Kamenica.personal.md) 
+
+### [Makedonska_Kamenica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaMakedonska_Kamenica.secret.md)
 

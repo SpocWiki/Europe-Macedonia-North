@@ -40,11 +40,16 @@ markerFolder: ./Kavadartsi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi|Kavadartsi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi.public|Kavadartsi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi.internal|Kavadartsi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi.protect|Kavadartsi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi.private|Kavadartsi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi.personal|Kavadartsi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Kavadartsi.secret|Kavadartsi.secret]] 
+
+### [Kavadartsi.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKavadartsi.public.md) 
+
+### [Kavadartsi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKavadartsi.internal.md) 
+
+### [Kavadartsi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKavadartsi.protect.md) 
+
+### [Kavadartsi.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKavadartsi.private.md) 
+
+### [Kavadartsi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKavadartsi.personal.md) 
+
+### [Kavadartsi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaKavadartsi.secret.md)
 

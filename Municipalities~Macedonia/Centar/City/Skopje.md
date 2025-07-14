@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/City/Skopje|Skopje]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/City/Skopje.public|Skopje.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/City/Skopje.internal|Skopje.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/City/Skopje.protect|Skopje.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/City/Skopje.private|Skopje.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/City/Skopje.personal|Skopje.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/City/Skopje.secret|Skopje.secret]] 
+
+### [Skopje.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar\CitySkopje.public.md) 
+
+### [Skopje.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar\CitySkopje.internal.md) 
+
+### [Skopje.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar\CitySkopje.protect.md) 
+
+### [Skopje.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar\CitySkopje.private.md) 
+
+### [Skopje.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar\CitySkopje.personal.md) 
+
+### [Skopje.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~Macedonia\Centar\CitySkopje.secret.md)
+

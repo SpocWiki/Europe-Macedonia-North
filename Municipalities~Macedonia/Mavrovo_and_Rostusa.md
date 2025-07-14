@@ -40,11 +40,16 @@ markerFolder: ./Mavrovo_and_Rostusa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Mavrovo_and_Rostusa|Mavrovo_and_Rostusa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Mavrovo_and_Rostusa.public|Mavrovo_and_Rostusa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Mavrovo_and_Rostusa.internal|Mavrovo_and_Rostusa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Mavrovo_and_Rostusa.protect|Mavrovo_and_Rostusa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Mavrovo_and_Rostusa.private|Mavrovo_and_Rostusa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Mavrovo_and_Rostusa.personal|Mavrovo_and_Rostusa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Mavrovo_and_Rostusa.secret|Mavrovo_and_Rostusa.secret]] 
+
+### [Mavrovo_and_Rostusa.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaMavrovo_and_Rostusa.public.md) 
+
+### [Mavrovo_and_Rostusa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaMavrovo_and_Rostusa.internal.md) 
+
+### [Mavrovo_and_Rostusa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaMavrovo_and_Rostusa.protect.md) 
+
+### [Mavrovo_and_Rostusa.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaMavrovo_and_Rostusa.private.md) 
+
+### [Mavrovo_and_Rostusa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaMavrovo_and_Rostusa.personal.md) 
+
+### [Mavrovo_and_Rostusa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaMavrovo_and_Rostusa.secret.md)
 

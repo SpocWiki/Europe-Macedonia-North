@@ -40,11 +40,16 @@ markerFolder: ./Sveti_Nikole/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sveti_Nikole|Sveti_Nikole]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sveti_Nikole.public|Sveti_Nikole.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sveti_Nikole.internal|Sveti_Nikole.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sveti_Nikole.protect|Sveti_Nikole.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sveti_Nikole.private|Sveti_Nikole.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sveti_Nikole.personal|Sveti_Nikole.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Macedonia~North/Counties/Sveti_Nikole.secret|Sveti_Nikole.secret]] 
+
+### [Sveti_Nikole.public](/_public/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSveti_Nikole.public.md) 
+
+### [Sveti_Nikole.internal](/_internal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSveti_Nikole.internal.md) 
+
+### [Sveti_Nikole.protect](/_protect/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSveti_Nikole.protect.md) 
+
+### [Sveti_Nikole.private](/_private/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSveti_Nikole.private.md) 
+
+### [Sveti_Nikole.personal](/_personal/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSveti_Nikole.personal.md) 
+
+### [Sveti_Nikole.secret](/_secret/\Earth\Continent\Europe\Europe~South\Macedonia~North\Municipalities~MacedoniaSveti_Nikole.secret.md)
 

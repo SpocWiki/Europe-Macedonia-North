@@ -1,30 +1,29 @@
 ---
-location: [ 42.2 , 22.3 ] 
+location:
+  - 42.2
+  - 22.3
 type: geo-Region
 title: Kriva_Palanka
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Kriva_Palanka
-
+  - Kriva_Palanka
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Kriva_Palanka

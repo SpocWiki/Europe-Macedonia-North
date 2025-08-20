@@ -1,30 +1,29 @@
 ---
-location: [ 41.4 , 22.9 ] 
+location:
+  - 41.4
+  - 22.9
 type: geo-Region
 title: Novo_Selo
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Novo_Selo
-
+  - Novo_Selo
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Novo_Selo

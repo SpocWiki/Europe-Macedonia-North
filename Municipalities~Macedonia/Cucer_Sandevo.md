@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Cucer_Sandevo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cucer_Sandevo/
 markerFolder: ./Cucer_Sandevo/

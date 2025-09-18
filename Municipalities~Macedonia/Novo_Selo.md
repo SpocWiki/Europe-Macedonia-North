@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Novo_Selo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Novo_Selo/
 markerFolder: ./Novo_Selo/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Mavrovo_and_Rostusa
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Mavrovo_and_Rostusa/
 markerFolder: ./Mavrovo_and_Rostusa/

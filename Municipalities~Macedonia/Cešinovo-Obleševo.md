@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Cešinovo-Obleševo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cešinovo-Obleševo/
 markerFolder: ./Cešinovo-Obleševo/

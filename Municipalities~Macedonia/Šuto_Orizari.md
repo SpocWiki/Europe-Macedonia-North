@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Šuto_Orizari
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Šuto_Orizari/
 markerFolder: ./Šuto_Orizari/

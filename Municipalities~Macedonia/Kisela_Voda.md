@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Kisela_Voda
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kisela_Voda/
 markerFolder: ./Kisela_Voda/

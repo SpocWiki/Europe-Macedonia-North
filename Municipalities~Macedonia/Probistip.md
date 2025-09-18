@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Probistip
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Probistip/
 markerFolder: ./Probistip/

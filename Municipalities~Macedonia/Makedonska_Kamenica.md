@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Makedonska_Kamenica
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Makedonska_Kamenica/
 markerFolder: ./Makedonska_Kamenica/

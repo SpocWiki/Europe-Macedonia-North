@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Centar_župa
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Centar_župa/
 markerFolder: ./Centar_župa/

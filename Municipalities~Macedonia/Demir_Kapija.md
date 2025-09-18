@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Demir_Kapija
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Demir_Kapija/
 markerFolder: ./Demir_Kapija/

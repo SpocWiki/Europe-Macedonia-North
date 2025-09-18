@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Kriva_Palanka
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kriva_Palanka/
 markerFolder: ./Kriva_Palanka/

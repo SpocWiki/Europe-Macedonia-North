@@ -21,7 +21,7 @@ State ::
 Country :: Macedonia,_FYR] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

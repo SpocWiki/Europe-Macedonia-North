@@ -21,7 +21,7 @@ State ::
 Country :: [[Albania]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

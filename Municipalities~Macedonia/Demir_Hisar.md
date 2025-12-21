@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Demir_Hisar
+  - Demir Hisar
 location:
   - 41.3
   - 21.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Demir_Hisar
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Demir_Hisar

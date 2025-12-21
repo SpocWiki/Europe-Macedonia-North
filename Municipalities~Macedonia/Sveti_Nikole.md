@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sveti_Nikole
+  - Sveti Nikole
 location:
   - 41.9
   - 22
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Sveti_Nikole
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Sveti_Nikole

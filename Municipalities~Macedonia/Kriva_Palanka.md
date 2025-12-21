@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kriva_Palanka
+  - Kriva Palanka
 location:
   - 42.2
   - 22.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Kriva_Palanka
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Kriva_Palanka

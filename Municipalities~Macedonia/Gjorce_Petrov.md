@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Gjorce_Petrov
+  - Gjorce Petrov
 location:
   - 42.04
   - 21.33
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Gjorce_Petrov
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Gjorce_Petrov

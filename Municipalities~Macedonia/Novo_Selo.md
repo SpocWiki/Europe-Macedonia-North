@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Novo_Selo
+  - Novo Selo
 location:
   - 41.4
   - 22.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Novo_Selo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Novo_Selo

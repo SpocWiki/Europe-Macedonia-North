@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Šuto_Orizari
+  - Šuto Orizari
 location:
   - 42.03
   - 21.41
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Šuto_Orizari
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Šuto_Orizari

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kisela_Voda
+  - Kisela Voda
 location:
   - 41.9
   - 21.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Kisela_Voda
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Kisela_Voda

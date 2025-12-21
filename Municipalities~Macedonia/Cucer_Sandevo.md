@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Cucer_Sandevo
+  - Cucer Sandevo
 location:
   - 42.1
   - 21.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Cucer_Sandevo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Cucer_Sandevo

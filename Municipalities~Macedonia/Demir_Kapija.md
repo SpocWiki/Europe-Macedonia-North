@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Demir_Kapija
+  - Demir Kapija
 location:
   - 41.4
   - 22.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Demir_Kapija
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Demir_Kapija

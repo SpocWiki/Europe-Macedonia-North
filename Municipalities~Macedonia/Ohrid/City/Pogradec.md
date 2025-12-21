@@ -1,16 +1,19 @@
 ---
-location: [40.92,20.72] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Pogradec
+location:
+  - 40.92
+  - 20.72
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33425
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

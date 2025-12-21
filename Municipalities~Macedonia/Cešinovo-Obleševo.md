@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cešinovo-Obleševo
 location:
   - 41.9
   - 22.3
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Cešinovo-Obleševo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Cešinovo-Obleševo

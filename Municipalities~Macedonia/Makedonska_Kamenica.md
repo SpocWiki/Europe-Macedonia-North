@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Makedonska_Kamenica
+  - Makedonska Kamenica
 location:
   - 42
   - 22.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Makedonska_Kamenica
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Makedonska_Kamenica

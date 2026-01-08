@@ -12,8 +12,8 @@ isDeleted: false
 confidential: public
 dv_ISO2: MK
 dv_ISO3: MKD
-dv_name-en: Macedonia, FYR
-dv_name-de: Mazedonien
+dv_has_name_en: Macedonia, FYR
+dv_has_name_de: Mazedonien
 dv_Area-Total: 25713
 dv_Area-Land: 25430
 dv_Continent: "[[../../../Europe]]"
@@ -36,8 +36,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

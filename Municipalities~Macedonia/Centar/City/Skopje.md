@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.43
 dv_has_place_latitude: 41.98
-dv_name: Skopje
+dv_has_name_: Skopje
 dv_Country: Macedonia,_FYR]
 ---
 #is_a_/Place  

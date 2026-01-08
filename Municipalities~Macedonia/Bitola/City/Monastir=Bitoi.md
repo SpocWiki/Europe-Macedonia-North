@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.32
 dv_has_place_latitude: 41.05
-dv_name: Monastir=Bitoi
+dv_has_name_: Monastir=Bitoi
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

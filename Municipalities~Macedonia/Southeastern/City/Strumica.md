@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.62
 dv_has_place_latitude: 41.45
-dv_name: Strumica
+dv_has_name_: Strumica
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

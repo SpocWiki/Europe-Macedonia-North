@@ -40,17 +40,17 @@ markerFolder: ./Aerodrom/
 
 ## Confidential Links & Embeds: 
 
-### [Aerodrom](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom|Aerodrom]] 
 
-### [Aerodrom.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom.public|Aerodrom.public]] 
 
-### [Aerodrom.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom.internal|Aerodrom.internal]] 
 
-### [Aerodrom.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom.protect|Aerodrom.protect]] 
 
-### [Aerodrom.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom.private|Aerodrom.private]] 
 
-### [Aerodrom.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom.personal|Aerodrom.personal]] 
 
-### [Aerodrom.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Aerodrom.secret|Aerodrom.secret]] 
 

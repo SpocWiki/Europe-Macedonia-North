@@ -41,17 +41,17 @@ markerFolder: ./Kisela_Voda/
 
 ## Confidential Links & Embeds: 
 
-### [Kisela_Voda](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda|Kisela_Voda]] 
 
-### [Kisela_Voda.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda.public|Kisela_Voda.public]] 
 
-### [Kisela_Voda.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda.internal|Kisela_Voda.internal]] 
 
-### [Kisela_Voda.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda.protect|Kisela_Voda.protect]] 
 
-### [Kisela_Voda.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda.private|Kisela_Voda.private]] 
 
-### [Kisela_Voda.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda.personal|Kisela_Voda.personal]] 
 
-### [Kisela_Voda.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Kisela_Voda.secret|Kisela_Voda.secret]] 
 

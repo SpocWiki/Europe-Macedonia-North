@@ -40,17 +40,17 @@ markerFolder: ./Dojran/
 
 ## Confidential Links & Embeds: 
 
-### [Dojran](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran|Dojran]] 
 
-### [Dojran.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran.public|Dojran.public]] 
 
-### [Dojran.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran.internal|Dojran.internal]] 
 
-### [Dojran.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran.protect|Dojran.protect]] 
 
-### [Dojran.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran.private|Dojran.private]] 
 
-### [Dojran.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran.personal|Dojran.personal]] 
 
-### [Dojran.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Dojran.secret|Dojran.secret]] 
 

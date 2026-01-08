@@ -10,9 +10,22 @@ tags:
 SpocWebEntityId: 26961
 isDeleted: false
 confidential: public
+dv_ISO2: MK
+dv_ISO3: MKD
+dv_name-en: Macedonia, FYR
+dv_name-de: Mazedonien
+dv_Area-Total: 25713
+dv_Area-Land: 25430
+dv_Continent: "[[../../../Europe]]"
+dv_VehicleCode: MK
+dv_Capital: "[[./Macedonia~North/Counties/Skopje]]"
+dv_Alcohol-l: 8.5
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 21.43
+dv_has_place_latitude: 41.98
 ---
-[ISO2::MK] 
-[ISO3::MKD] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
 ```leaflet
 id: Macedonia, FYR
@@ -23,37 +36,37 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Macedonia, FYR] 
-[name-de::Mazedonien] 
-[Area-Total::25713] 
-[Area-Land::25430] 
-Continent :: [[Europe]]  
-[VehicleCode::MK] 
-Capital :: [[./Macedonia~North/Counties/Skopje]]  
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Macedonia.svg|350]] 
 ![[Anthem-Macedonia.mp3]] 
 ![[Flag_of_Macedonia.svg|350]] 
-[Alcohol-l::8.5] 
+Alcohol-l = `=this.dv_Alcohol-l` 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.43] 
-[has_place_latitude::41.98] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/ReadMe.secret|ReadMe.secret]] 
 

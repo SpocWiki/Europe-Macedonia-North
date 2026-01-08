@@ -41,17 +41,17 @@ markerFolder: ./Mavrovo_and_Rostusa/
 
 ## Confidential Links & Embeds: 
 
-### [Mavrovo_and_Rostusa](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa|Mavrovo_and_Rostusa]] 
 
-### [Mavrovo_and_Rostusa.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa.public|Mavrovo_and_Rostusa.public]] 
 
-### [Mavrovo_and_Rostusa.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa.internal|Mavrovo_and_Rostusa.internal]] 
 
-### [Mavrovo_and_Rostusa.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa.protect|Mavrovo_and_Rostusa.protect]] 
 
-### [Mavrovo_and_Rostusa.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa.private|Mavrovo_and_Rostusa.private]] 
 
-### [Mavrovo_and_Rostusa.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa.personal|Mavrovo_and_Rostusa.personal]] 
 
-### [Mavrovo_and_Rostusa.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Mavrovo_and_Rostusa.secret|Mavrovo_and_Rostusa.secret]] 
 

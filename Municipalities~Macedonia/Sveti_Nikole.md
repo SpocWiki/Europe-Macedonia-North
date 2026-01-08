@@ -41,17 +41,17 @@ markerFolder: ./Sveti_Nikole/
 
 ## Confidential Links & Embeds: 
 
-### [Sveti_Nikole](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole|Sveti_Nikole]] 
 
-### [Sveti_Nikole.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole.public|Sveti_Nikole.public]] 
 
-### [Sveti_Nikole.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole.internal|Sveti_Nikole.internal]] 
 
-### [Sveti_Nikole.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole.protect|Sveti_Nikole.protect]] 
 
-### [Sveti_Nikole.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole.private|Sveti_Nikole.private]] 
 
-### [Sveti_Nikole.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole.personal|Sveti_Nikole.personal]] 
 
-### [Sveti_Nikole.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Sveti_Nikole.secret|Sveti_Nikole.secret]] 
 

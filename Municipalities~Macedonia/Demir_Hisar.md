@@ -41,17 +41,17 @@ markerFolder: ./Demir_Hisar/
 
 ## Confidential Links & Embeds: 
 
-### [Demir_Hisar](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar|Demir_Hisar]] 
 
-### [Demir_Hisar.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.public|Demir_Hisar.public]] 
 
-### [Demir_Hisar.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.internal|Demir_Hisar.internal]] 
 
-### [Demir_Hisar.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.protect|Demir_Hisar.protect]] 
 
-### [Demir_Hisar.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.private|Demir_Hisar.private]] 
 
-### [Demir_Hisar.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.personal|Demir_Hisar.personal]] 
 
-### [Demir_Hisar.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Hisar.secret|Demir_Hisar.secret]] 
 

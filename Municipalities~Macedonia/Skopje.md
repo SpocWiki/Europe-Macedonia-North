@@ -20,16 +20,19 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Skopje,384|WD~Skopje,384]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Skopje,384|WD~Skopje,384]]"
 ---
 
 # [[Skopje]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Skopje,384|WD~Skopje,384]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -62,19 +65,20 @@ defaultZoom: 11
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Skopje) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Skopje](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje|Skopje]] 
 
-### [Skopje.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.public|Skopje.public]] 
 
-### [Skopje.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.internal|Skopje.internal]] 
 
-### [Skopje.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.protect|Skopje.protect]] 
 
-### [Skopje.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.private|Skopje.private]] 
 
-### [Skopje.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.personal|Skopje.personal]] 
 
-### [Skopje.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.secret|Skopje.secret]] 
 

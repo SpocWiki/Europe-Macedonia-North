@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32547
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.32
+dv_has_place_latitude: 41.05
+dv_name: Monastir=Bitoi
+dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.32] 
-[has_place_latitude::41.05] 
-[name::Monastir=Bitoi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monastir=Bitoi](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi|Monastir=Bitoi]] 
 
-### [Monastir=Bitoi.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.public|Monastir=Bitoi.public]] 
 
-### [Monastir=Bitoi.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.internal|Monastir=Bitoi.internal]] 
 
-### [Monastir=Bitoi.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.protect|Monastir=Bitoi.protect]] 
 
-### [Monastir=Bitoi.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.private|Monastir=Bitoi.private]] 
 
-### [Monastir=Bitoi.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.personal|Monastir=Bitoi.personal]] 
 
-### [Monastir=Bitoi.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Bitola/City/Monastir=Bitoi.secret|Monastir=Bitoi.secret]] 
 

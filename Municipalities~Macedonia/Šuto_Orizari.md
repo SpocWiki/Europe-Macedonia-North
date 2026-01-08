@@ -41,17 +41,17 @@ markerFolder: ./Šuto_Orizari/
 
 ## Confidential Links & Embeds: 
 
-### [Šuto_Orizari](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari|Šuto_Orizari]] 
 
-### [Šuto_Orizari.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.public|Šuto_Orizari.public]] 
 
-### [Šuto_Orizari.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.internal|Šuto_Orizari.internal]] 
 
-### [Šuto_Orizari.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.protect|Šuto_Orizari.protect]] 
 
-### [Šuto_Orizari.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.private|Šuto_Orizari.private]] 
 
-### [Šuto_Orizari.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.personal|Šuto_Orizari.personal]] 
 
-### [Šuto_Orizari.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Šuto_Orizari.secret|Šuto_Orizari.secret]] 
 

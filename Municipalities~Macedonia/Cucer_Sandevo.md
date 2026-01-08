@@ -41,17 +41,17 @@ markerFolder: ./Cucer_Sandevo/
 
 ## Confidential Links & Embeds: 
 
-### [Cucer_Sandevo](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo|Cucer_Sandevo]] 
 
-### [Cucer_Sandevo.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.public|Cucer_Sandevo.public]] 
 
-### [Cucer_Sandevo.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.internal|Cucer_Sandevo.internal]] 
 
-### [Cucer_Sandevo.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.protect|Cucer_Sandevo.protect]] 
 
-### [Cucer_Sandevo.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.private|Cucer_Sandevo.private]] 
 
-### [Cucer_Sandevo.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.personal|Cucer_Sandevo.personal]] 
 
-### [Cucer_Sandevo.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Cucer_Sandevo.secret|Cucer_Sandevo.secret]] 
 

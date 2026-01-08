@@ -41,17 +41,17 @@ markerFolder: ./Makedonska_Kamenica/
 
 ## Confidential Links & Embeds: 
 
-### [Makedonska_Kamenica](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica|Makedonska_Kamenica]] 
 
-### [Makedonska_Kamenica.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica.public|Makedonska_Kamenica.public]] 
 
-### [Makedonska_Kamenica.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica.internal|Makedonska_Kamenica.internal]] 
 
-### [Makedonska_Kamenica.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica.protect|Makedonska_Kamenica.protect]] 
 
-### [Makedonska_Kamenica.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica.private|Makedonska_Kamenica.private]] 
 
-### [Makedonska_Kamenica.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica.personal|Makedonska_Kamenica.personal]] 
 
-### [Makedonska_Kamenica.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Makedonska_Kamenica.secret|Makedonska_Kamenica.secret]] 
 

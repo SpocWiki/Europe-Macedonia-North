@@ -41,17 +41,17 @@ markerFolder: ./Demir_Kapija/
 
 ## Confidential Links & Embeds: 
 
-### [Demir_Kapija](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija|Demir_Kapija]] 
 
-### [Demir_Kapija.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.public|Demir_Kapija.public]] 
 
-### [Demir_Kapija.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.internal|Demir_Kapija.internal]] 
 
-### [Demir_Kapija.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.protect|Demir_Kapija.protect]] 
 
-### [Demir_Kapija.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.private|Demir_Kapija.private]] 
 
-### [Demir_Kapija.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.personal|Demir_Kapija.personal]] 
 
-### [Demir_Kapija.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Demir_Kapija.secret|Demir_Kapija.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29208
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.32
+dv_has_place_latitude: 14.05
+dv_name: Bitolj
+dv_Country: "[[../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.32] 
-[has_place_latitude::14.05] 
-[name::Bitolj
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name`
 State ::  
-Country :: [[../../../../../../Europe/Europe~South/Yugoslavia]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bitolj=Monastir](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir|Bitolj=Monastir]] 
 
-### [Bitolj=Monastir.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.public|Bitolj=Monastir.public]] 
 
-### [Bitolj=Monastir.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.internal|Bitolj=Monastir.internal]] 
 
-### [Bitolj=Monastir.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.protect|Bitolj=Monastir.protect]] 
 
-### [Bitolj=Monastir.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.private|Bitolj=Monastir.private]] 
 
-### [Bitolj=Monastir.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.personal|Bitolj=Monastir.personal]] 
 
-### [Bitolj=Monastir.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/City/Bitolj=Monastir.secret|Bitolj=Monastir.secret]] 
 

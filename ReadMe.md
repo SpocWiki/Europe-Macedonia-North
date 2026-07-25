@@ -3,7 +3,7 @@ dv_ISO2: MK
 dv_ISO3: MKD
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~North_Macedonia,221|WD~North_Macedonia,221]]'
+  - '[[../../../../../WikiData/WD~North_Macedonia,221|WD~North_Macedonia,221]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North|Macedonia~North]]'
   - '[[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North.public|Macedonia~North.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North.internal|Macedonia~North.internal]]'
@@ -314,15 +314,15 @@ dv_has_name_en: Macedonia, FYR
 dv_has_name_de: Mazedonien
 dv_Area-Total: 25713
 dv_Area-Land: 25430
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: MK
-dv_Capital: '[[./Macedonia~North/Counties/Skopje|Skopje]]'
+dv_Capital: '[[Counties/Skopje|Skopje]]'
 dv_Alcohol-l: 8.5
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 21.43
 dv_has_place_latitude: 41.98
 dv_is_same_as:
-- '[[../../../../WikiData/WD~North_Macedonia,221|WD~North_Macedonia,221]]'
+- '[[../../../../../WikiData/WD~North_Macedonia,221|WD~North_Macedonia,221]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North|Macedonia~North]]'
 - '[[/_public/Earth/Continent/Europe/Europe~South/Macedonia~North.public|Macedonia~North.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North.internal|Macedonia~North.internal]]'
@@ -590,7 +590,7 @@ isDeleted: false
 confidential: public
 icon: flag-mk
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
@@ -747,7 +747,7 @@ part_of:
 - '[[/_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647|WD~European_Union_tax_haven_blacklist,66458647]]'
 history_of_topic: '[[/_Standards/WikiData/WD~history_of_North_Macedonia,556450|WD~history_of_North_Macedonia,556450]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
 - '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
@@ -1029,7 +1029,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Macedonia~North/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1050,7 +1050,7 @@ markerFolder: ./Macedonia~North//
 
 ```leaflet
 id: Macedonia~North_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1076,7 +1076,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Macedonia.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Macedonia.mp3|Anthem-Macedonia.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Macedonia.mp3|Anthem-Macedonia.mp3]]
 ![[Flag_of_Macedonia.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]

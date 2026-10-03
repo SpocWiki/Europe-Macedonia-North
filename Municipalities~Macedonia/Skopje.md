@@ -5,6 +5,8 @@ has_id_wikidata: Q384
 location:
   - 41.9
   - 21.7
+  - 41.98
+  - 21.43
 type: geo-Region
 title: Skopje
 license: CC BY-SA 4.0
@@ -15,6 +17,7 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
+  - geo/City
 Languages:
   - de
 cssclasses:
@@ -28,6 +31,16 @@ expiryDate: ""
 dv_is_:
   same_as: "[[../../../../../../WikiData/WD~Skopje,384|WD~Skopje,384]]"
 dv_is_same_as: "[[../../../../../../WikiData/WD~Skopje,384|WD~Skopje,384]]"
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
+SpocWebEntityId: 34310
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.43
+dv_has_place_latitude: 41.98
+dv_has_name: Skopje
+dv_Country: Macedonia,_FYR]
 ---
 
 # [[Skopje]] 
@@ -82,3 +95,23 @@ defaultZoom: 11
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Skopje.secret|Skopje.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North/Municipalities~Macedonia/Centar/City/Skopje.md`
+
+#is_a_/Place
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+name = `=this.dv_has_name`
+State ::
+Country = `=this.dv_Country`
+[StateId::]
+[Population::]
+
+```leaflet
+id: Skopje
+coordinates: [[Skopje]]
+markerFile: [[Skopje]]
+defaultZoom: 11
+maxZoom: 18
+```
